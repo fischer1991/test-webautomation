@@ -80,7 +80,3 @@ npx playwright show-report
 
 ## Configuration
 The Playwright configuration is defined in playwright.config.js. This file includes settings such as test directory, retries, timeouts, and browser options.
-
-## Video execution
-Watch the video execution to see how tests are executed using Playwright: https://youtu.be/Q_6CRrVr2HI
-
