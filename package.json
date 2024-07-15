@@ -1,0 +1,15 @@
+{
+  "author": "Luiz Fischer",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.45.1",
+    "@types/node": "^20.14.10",
+    "playwright-chrome": "^1.0.0",
+    "playwright-firefox": "^1.45.1",
+    "playwright-webkit": "^1.45.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  }
+}
